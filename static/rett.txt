@@ -1,0 +1,7 @@
+this is a static file 
+
+
+
+files which can be showen to users easily
+donot keep any imp file in static which can create a secuirty loop hole
+url = /static/rett.txt
